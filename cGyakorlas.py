@@ -111,16 +111,17 @@ def tizenegy():
     print("3*"+str(x)+"+"+str(y)+"^2=" +str(eredmeny))
 
 def tizenketto():
-x= beolvas2()
-y= beolvas2()
 
-for szam in range(math.ceil(x),round(y)+1,1):
-   #print(szam, end=" ")
- db = 0
-if szam%2 == 0:
+ x= beolvas2()
+ y= beolvas2()
+
+ for szam in range(math.ceil(x),round(y)+1,1):
+    #print(szam, end=" ")
+  db = 0
+ if szam%2 == 0:
 
     db += 1
-print(" A páros számok száma: "+str(db)+"db.")
+ print(" A páros számok száma: "+str(db)+"db.")
 
 tizenketto()
 
