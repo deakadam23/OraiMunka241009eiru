@@ -1,13 +1,13 @@
-import c1
-import e5
-import e6
-import e7
-import e13
-import e14
-import e15
-import e11
-import mintaW1
-import mintaFor
+#import c1
+#import e5
+#import e6
+#import e7
+#import e13
+#import e14
+#import e15
+#import e11
+#import mintaW1
+#import mintaFor
 import cGyakorlas
 
 # elágazásos házik
@@ -35,4 +35,6 @@ import cGyakorlas
 # cGyakorlas.negy()
 # cGyakorlas.ot()
 # cGyakorlas.hat()
-cGyakorlas.het()
+#cGyakorlas.nyolc()
+#cGyakorlas.tizenegy()
+cGyakorlas.tizenketto()
